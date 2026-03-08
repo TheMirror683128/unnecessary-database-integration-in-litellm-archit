@@ -1,0 +1,23 @@
+# Unnecessary Database Integration in LiteLLM Architecture
+
+## What this is
+Simplify your LLM architecture and reduce maintenance burdens. This page is a validation pilot — no product exists yet. Join the waitlist to be notified when it’s ready.
+
+## The problem
+Maintaining a Redis database adds unnecessary complexity to your LLM architecture. Each manual update consumes valuable engineering hours, pulling your team away from innovation. As AI infrastructure rapidly evolves, this inefficiency can hinder your competitive edge. The longer you rely on outdated practices, the more you risk falling behind.
+
+## Who experiences this
+Unknown — specifically Engineering leads at AI infrastructure companies.
+
+## Current workaround
+Users currently manage the complexity by manually maintaining the Redis database.
+
+## Why now
+As AI infrastructure evolves, there is a growing demand for more efficient and simpler architectures.
+
+## Status
+Early validation. Waitlist open at: https://themirror683128.github.io/unnecessary-database-integration-in-litellm-archit/
+
+## Evidence from public sources
+- "Spin up LiteLLM, now you have a Python service to maintain." (hn)
+- "Reach for Redis, now you have a database for a problem that doesn&#x27;t need one." (hn)
